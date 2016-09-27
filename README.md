@@ -1,0 +1,2 @@
+# MindMap
+Repository for MindMaps
